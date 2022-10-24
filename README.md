@@ -1,2 +1,2 @@
-# Clsutering London Neighbourhoods
+# Clustering London Neighbourhoods
 
